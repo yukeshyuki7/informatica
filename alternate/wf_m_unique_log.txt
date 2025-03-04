@@ -1,0 +1,25 @@
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_36435 : Starting execution of workflow [wf_m_unique] in folder [customer] last saved by user [Administrator].
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_44206 : Workflow wf_m_unique started with run id [7], run instance name [], run type [Concurrent Run Disabled].
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_44195 : Workflow [wf_m_unique] service level [SLPriority:5,SLDispatchWaitTime:1800].
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_44253 : Workflow started. Clients will be notified
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_36330 : Start task instance [Start]: Execution started.
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_36318 : Start task instance [Start]: Execution succeeded.
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_36505 : Link [Start --> s_alternate]: empty expression string, evaluated to TRUE.
+2025-03-04 15:40:23 : INFO : (9100 | 4948) : (IS | IS) : node01 : LM_36388 : Session task instance [s_alternate] is waiting to be started.
+2025-03-04 15:40:23 : INFO : (9100 | 5964) : (IS | IS) : node01 : LM_36682 : Session task instance [s_alternate]: started a process with pid [12600] on node [node01].
+2025-03-04 15:40:23 : INFO : (9100 | 5964) : (IS | IS) : node01 : LM_36330 : Session task instance [s_alternate]: Execution started.
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6793 Fetching initialization properties from the Integration Service. : (Tue Mar 04 15:40:23 2025)]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [DISP_20305 The [Preparer] DTM with process id [12600] is running on node [node01].
+ : (Tue Mar 04 15:40:23 2025)]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [PETL_24036 Beginning the prepare phase for the session.]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6721 Started [Connect to Repository].]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6722 Finished [Connect to Repository].  It took [0.147023] seconds.]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6794 Connected to repository [REP] in domain [Domain] as user [Administrator] in security domain [Native].]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6721 Started [Fetch Session from Repository].]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6722 Finished [Fetch Session from Repository].  It took [0.113992] seconds.]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6721 Started [Partition Group Formation].]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6722 Finished [Partition Group Formation].  It took [0.024008] seconds.]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [PETL_24037 Finished the prepare phase for the session.]
+2025-03-04 15:40:23 : INFO : (9100 | 10752) : (IS | IS) : node01 : LM_36488 : Session task instance [s_alternate] : [TM_6792 Notifying the Integration Service that the prepare phase has been completed. : (Tue Mar 04 15:40:23 2025)]
+2025-03-04 15:40:24 : INFO : (9100 | 1920) : (IS | IS) : node01 : LM_36318 : Session task instance [s_alternate]: Execution succeeded.
+2025-03-04 15:40:25 : INFO : (9100 | 3904) : (IS | IS) : node01 : LM_36318 : Workflow [wf_m_unique]: Execution succeeded.
