@@ -1,0 +1,3 @@
+101,john doe,john@examp,1
+102,alice smit,alice@exam,1
+103,bob johnso,bob@exampl,1
