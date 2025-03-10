@@ -1,0 +1,102 @@
+  2045306119Buffy               Whiteland           Erie                16534.00000000000000United States                814FALSE               
+  2105130488Van                 Wesson              Washington          20310.00000000000000United States                202FALSE               
+   711470286Chauncey            Deeming             New Hyde Park       11044.00000000000000United States                516FALSE               
+   238153835Cortney             Cuncarr             Flushing            11355.00000000000000United States                917FALSE               
+  1981746358Raffaello           Sanger              Stamford            6905.000000000000000United States                203FALSE               
+   908536070Nikolai             Dyka                Boston              2298.000000000000000United States                617FALSE               
+  1984004085Lori                Kliment             New Orleans         70183.00000000000000United States                504FALSE               
+   796293090Matteo              Cree                Bronx               10469.00000000000000United States                718FALSE               
+  1515416119Eunice              Brogiotti           Fort Smith          72905.00000000000000United States                479FALSE               
+    80471072Arri                Becke               Murfreesboro        37131.00000000000000United States                615FALSE               
+  1391208943Cullan              Bruckmann           Charleston          25389.00000000000000United States                304FALSE               
+   391340301Jethro              Morstatt            Los Angeles         90065.00000000000000United States                213FALSE               
+    91876907Cristionna          MacKnocker          Dallas              75260.00000000000000United States                214FALSE               
+  1164820028Federica            Popple              San Antonio         78215.00000000000000United States                210FALSE               
+   290764327Garreth             Castellan           Arlington           22212.00000000000000United States                571FALSE               
+    48778540Eddi                Laming              Danbury             6816.000000000000000United States                203FALSE               
+   583468276Rutherford          Maker               Kingsport           37665.00000000000000United States                423FALSE               
+   972720901Lenard              Longmuir            Lakeland            33805.00000000000000United States                863FALSE               
+  1973064286Avril               Bumby               Los Angeles         90045.00000000000000United States                562FALSE               
+   994739435Allyson             Fatscher            Columbus            43231.00000000000000United States                614FALSE               
+   517502895Pris                Wolfart             Champaign           61825.00000000000000United States                217FALSE               
+  1818438763Roanne              Formby              Columbus            43215.00000000000000United States                513FALSE               
+    45185336Ned                 Howchin             Savannah            31416.00000000000000United States                912FALSE               
+   562001417Erin                Tomowicz            Atlanta             30343.00000000000000United States                404FALSE               
+  1808069161Chadd               Mor                 Chicago             60624.00000000000000United States                773FALSE               
+  1162395850Nichole             Grindle             Honolulu            96825.00000000000000United States                808FALSE               
+  1878462040Nydia               Russel              Saint Paul          55123.00000000000000United States                952FALSE               
+  1216605262Clarissa            Clyburn             Punta Gorda         33982.00000000000000United States                941FALSE               
+  1120952735Jermaine            Gonthard            Durham              27710.00000000000000United States                919FALSE               
+  2108210962Allsun              Wesson              Wilmington          28410.00000000000000United States                910FALSE               
+   288009746Averyl              Edscer              Charlotte           28299.00000000000000United States                704FALSE               
+  1782718249Dotti               Aikin               Brooklyn            11254.00000000000000United States                212FALSE               
+   325637202Melissa             Howkins             Houston             77075.00000000000000United States                832FALSE               
+  2042994545Coleman             Wankling            Austin              78703.00000000000000United States                512FALSE               
+  1707988137Elbert              Gomer               Durham              27705.00000000000000United States                919FALSE               
+  1454837179Yolane              Rae                 Waco                76796.00000000000000United States                801FALSE               
+  2013419848Consuelo            Ivanenkov           New Brunswick       8922.000000000000000United States                732FALSE               
+   687101107Laural              Osinin              Mobile              36689.00000000000000United States                251FALSE               
+   538362022Matty               Iwanowicz           Portland            97296.00000000000000United States                503FALSE               
+  1298353823Karyl               Cohrs               Memphis             38188.00000000000000United States                901FALSE               
+   501874488Zena                Rowatt              New Bedford         2745.000000000000000United States                508FALSE               
+  1719853738Blythe              Delmonti            Portland            97211.00000000000000United States                503FALSE               
+  1412531535Alicia              Le Noir             Corona              92878.00000000000000United States                951FALSE               
+  1152830554Alard               Hugo                Sacramento          94297.00000000000000United States                916FALSE               
+   421366559Shanna              Iacofo              Sacramento          95894.00000000000000United States                916FALSE               
+   932388396Wilona              Beverstock          Washington          20238.00000000000000United States                202FALSE               
+  1176908049Shauna              Gilvear             Memphis             38161.00000000000000United States                901FALSE               
+   155573144Doloritas           Cadge               Hampton             23663.00000000000000United States                757FALSE               
+   352288299Uriel               Crisell             Houston             77045.00000000000000United States                713FALSE               
+  1978660650Kass                Churn               Warren              44485.00000000000000United States                330FALSE               
+  1357900902Lindy               Folland             Columbia            29215.00000000000000United States                803FALSE               
+  1584784202Ozzie               Arstingall          Pittsburgh          15250.00000000000000United States                412FALSE               
+   663967589Rodger              Haffard             San Diego           92176.00000000000000United States                619FALSE               
+   307757609Alyosha             Laurenson           Austin              78732.00000000000000United States                512FALSE               
+  1647910641Guillemette         Yeabsley            Montgomery          36109.00000000000000United States                334FALSE               
+   566993953Shoshanna           Jamme               Pittsburgh          15255.00000000000000United States                412FALSE               
+  1493925512Sashenka            Fairweather         El Paso             88514.00000000000000United States                915FALSE               
+  1597322059Eugenius            McKleod             Albuquerque         87105.00000000000000United States                505FALSE               
+  1569824126Doretta             Darrigoe            Newport Beach       92662.00000000000000United States                949FALSE               
+  1302934392Charla              Casbourne           Knoxville           37995.00000000000000United States                865FALSE               
+  1484795261Krysta              Cowlard             Olympia             98516.00000000000000United States                253FALSE               
+  1713660717Sebastien           Goodhand            Brooklyn            11205.00000000000000United States                718FALSE               
+  1680515039Starlene            Wathall             Brooklyn            11215.00000000000000United States                646FALSE               
+  1071544179Seward              Schimonek           Durham              27710.00000000000000United States                919FALSE               
+   494508701Kevina              Meegan              Miami               33175.00000000000000United States                305FALSE               
+  1019034440Levon               Headford            Allentown           18105.00000000000000United States                610FALSE               
+   895908417Amy                 Klemz               Anchorage           99522.00000000000000United States                907FALSE               
+  1198125179Elane               Rizzolo             Corpus Christi      78405.00000000000000United States                361FALSE               
+  1698072724Gran                Lilford             Santa Ana           92725.00000000000000United States                714FALSE               
+  1735559105Arden               Verma               Port Washington     11054.00000000000000United States                516FALSE               
+   905642007Salli               Jarrell             Denver              80249.00000000000000United States                720FALSE               
+   352388366Laure               Beslier             Dallas              75379.00000000000000United States                214FALSE               
+  1530700809Reta                Lowell              Alexandria          22301.00000000000000United States                202FALSE               
+   168672359Josefina            Frudd               Akron               44310.00000000000000United States                330FALSE               
+  1190720884Nadeen              Bucktrout           Charlotte           28235.00000000000000United States                704FALSE               
+  1605766690Barn                Stoney              Round Rock          78682.00000000000000United States                512FALSE               
+   782788092Norton              Pulbrook            Garland             75049.00000000000000United States                214FALSE               
+  1235869008Katey               Gisburn             New Brunswick       8922.000000000000000United States                732FALSE               
+  1035461811Theda               Sambiedge           Saint Louis         63126.00000000000000United States                636FALSE               
+  1410886824Ase                 Lanfranchi          Elmira              14905.00000000000000United States                607FALSE               
+    30100224Aldus               Byrnes              Anchorage           99522.00000000000000United States                907FALSE               
+   794164919Yetta               Nund                Omaha               68164.00000000000000United States                402FALSE               
+  2047863155Scot                Wyvill              Philadelphia        19146.00000000000000United States                267FALSE               
+   288180747Gunter              Arnholdt            Springfield         65898.00000000000000United States                417FALSE               
+  1792442351Adriano             Coneybeare          Lawrenceville       30045.00000000000000United States                678FALSE               
+  1749931427Noelyn              Ingerson            Lexington           40510.00000000000000United States                859FALSE               
+   639447872Bevvy               Rasell              Tacoma              98405.00000000000000United States                253FALSE               
+   392588358Loralie             McTurk              Greenville          29605.00000000000000United States                864FALSE               
+   815505973Persis              Teffrey             Waterbury           6721.000000000000000United States                203FALSE               
+  1736854933Diahann             Townson             Vancouver           98682.00000000000000United States                360FALSE               
+   463430387Colas               Curthoys            Montgomery          36104.00000000000000United States                334FALSE               
+  1941096204Faina               Ferres              Topeka              66622.00000000000000United States                785FALSE               
+  1645355284Jo                  Trevon              Jackson             39282.00000000000000United States                601FALSE               
+    33150257Neal                Loftin              Mesa                85215.00000000000000United States                480FALSE               
+  1867405792Andrea              Giraudot            Tampa               33686.00000000000000United States                813FALSE               
+  1104633833Sissy               Suckling            Las Vegas           89166.00000000000000United States                702FALSE               
+   871519992Eleen               Rodnight            Santa Cruz          95064.00000000000000United States                831FALSE               
+  1096797151Keri                Arnatt              Charlotte           28205.00000000000000United States                704FALSE               
+   375759883Cristen             Crielly             Los Angeles         90030.00000000000000United States                213FALSE               
+  2133545913Bobbette            Postles             San Francisco       94121.00000000000000United States                415FALSE               
+   390888729Demetris            Coleshill           Evansville          47732.00000000000000United States                812FALSE               
+   482533234Celestia            Ledeker             Louisville          40266.00000000000000United States                502FALSE               

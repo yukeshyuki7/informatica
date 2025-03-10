@@ -1,0 +1,101 @@
+   944172962Cristiano           Checci              Elmira              14905.00000000000000United States                607TRUE                
+   999878018Kelcy               Lissaman            Erie                16534.00000000000000United States                814TRUE                
+   710175337Levi                Waything            Washington          20088.00000000000000United States                202TRUE                
+   472968572Oriana              Lambswood           Toledo              43656.00000000000000United States                419TRUE                
+  1799613038Chaddy              Caldecott           Pompano Beach       33064.00000000000000United States                561TRUE                
+  1320461719Roxie               Oneal               Asheville           28815.00000000000000United States                828TRUE                
+   342715275Lianne              Ziemsen             Roanoke             24009.00000000000000United States                540TRUE                
+  1757856765L;urette            Luppitt             Durham              27710.00000000000000United States                919TRUE                
+    43401597Harper              Hannen              Fort Lauderdale     33345.00000000000000United States                754TRUE                
+   516980866Morty               Gutowska            Dallas              75260.00000000000000United States                214TRUE                
+   414254090Bertram             Murphy              Las Vegas           89105.00000000000000United States                702TRUE                
+   111062756Clo                 Tomasian            Washington          20409.00000000000000United States                202TRUE                
+   110048229Javier              Causier             Huntington          25705.00000000000000United States                304TRUE                
+  1173064532Lydon               Swanborough         Sacramento          94297.00000000000000United States                916TRUE                
+   813676010Georgianne          Bignold             Toledo              43656.00000000000000United States                419TRUE                
+   413557103Loreen              Clouter             San Diego           92191.00000000000000United States                619TRUE                
+   634879553Mort                Jouanny             Lexington           40510.00000000000000United States                859TRUE                
+   712555463Goober              Ceresa              Boston              2208.000000000000000United States                781TRUE                
+  1382771940Valli               Tremethack          Muzayri‘          *                   United Arab Emirates         155TRUE                
+   300234767Donnamarie          Moffet              Kansas City         64125.00000000000000United States                816TRUE                
+  2031766694Lauren              Petrello            Fort Myers          33994.00000000000000United States                239TRUE                
+   772805474Cassie              Olesen              Baltimore           21290.00000000000000United States                410TRUE                
+   869321870Miguelita           Chatin              Hampton             23663.00000000000000United States                804TRUE                
+  1658821629Sim                 Gundry              Oklahoma City       73142.00000000000000United States                405TRUE                
+  1260392139Janka               Clendening          Harrisburg          17110.00000000000000United States                717TRUE                
+  1083163744Sydney              O'dell              Detroit             48232.00000000000000United States                313TRUE                
+   867015195Rinaldo             Graveson            Ocala               34479.00000000000000United States                352TRUE                
+  1976735203Gan                 Colliber            Hollywood           33023.00000000000000United States                305TRUE                
+  1928644368Georgine            Sanches             Saint Augustine     32092.00000000000000United States                904TRUE                
+   900529040Delores             Abberley            Louisville          40266.00000000000000United States                502TRUE                
+  1102958107Regan               McCloch             Fort Worth          76110.00000000000000United States                817TRUE                
+   438058844Corri               Cardozo             Garland             75049.00000000000000United States                214TRUE                
+    10119531Roger               Anderbrugge         Cincinnati          45264.00000000000000United States                513TRUE                
+  1812397720Alvera              Akred               Wilkes Barre        18706.00000000000000United States                570TRUE                
+  1511432268Tera                Reading             Chico               95973.00000000000000United States                916TRUE                
+   215728068Legra               Woodwing            Vancouver           98664.00000000000000United States                360TRUE                
+   855695803Otho                Hamly               Birmingham          35290.00000000000000United States                205TRUE                
+   399825959Shae                Lowth               Amarillo            79105.00000000000000United States                806TRUE                
+  1870180178Moe                 Maggill'Andreis     Tulsa               74108.00000000000000United States                918TRUE                
+  1244046361Willy               Bernardt            Reno                89519.00000000000000United States                775TRUE                
+  1930792700Aluino              Goggins             Cleveland           44105.00000000000000United States                216TRUE                
+  1063203899Kathlin             Grafom              Atlanta             31165.00000000000000United States                404TRUE                
+   427885620Keen                Wilshaw             Sacramento          95813.00000000000000United States                916TRUE                
+  2133282270Ilse                Dubs                Nashville           37245.00000000000000United States                615TRUE                
+   530601222Honor               Deeny               Oklahoma City       73167.00000000000000United States                405TRUE                
+  2078531332Nial                Touhig              Dulles              20189.00000000000000United States                571TRUE                
+   537201157Aretha              Boneham             Detroit             48242.00000000000000United States                248TRUE                
+   440665132Alonso              Goring              Reston              22096.00000000000000United States                571TRUE                
+  2069948943Normy               Liptrot             Alexandria          22313.00000000000000United States                571TRUE                
+   260710121Marcella            Caberas             Saint Louis         63169.00000000000000United States                314TRUE                
+  2009488180Kennedy             Alonso              New York City       10125.00000000000000United States                212TRUE                
+   468589295Mimi                Padmore             Tulsa               74108.00000000000000United States                918TRUE                
+  1649645546Warde               Werndly             Honolulu            96850.00000000000000United States                808TRUE                
+   369339398Andee               Mahody              Allentown           18105.00000000000000United States                610TRUE                
+  1196405883Yanaton             Lyles               Kansas City         64190.00000000000000United States                816TRUE                
+   109270924Eustace             Searsby             Des Moines          50362.00000000000000United States                515TRUE                
+  1450228429Shoshana            Steynor             Topeka              66617.00000000000000United States                785TRUE                
+  1505607833Koressa             Beacon              Huntington          25775.00000000000000United States                304TRUE                
+  2030974919Garrik              Mournian            Orlando             32819.00000000000000United States                321TRUE                
+   877187061Caritta             Jupe                Phoenix             85062.00000000000000United States                602TRUE                
+  2141330211Karlotte            Gerran              El Paso             88546.00000000000000United States                915TRUE                
+   637566602Modesty             Cavie               Charlotte           28289.00000000000000United States                704TRUE                
+   789907968Thorpe              Jorck               Jackson             39236.00000000000000United States                601TRUE                
+  1851381813Angelika            Southerell          Beaverton           97075.00000000000000United States                503TRUE                
+   775979805Dolores             Tackell             Amarillo            79171.00000000000000United States                401TRUE                
+  1834648068Ari                 Secrett             Maple Plain         55572.00000000000000United States                763TRUE                
+   408388161Yalonda             Burton              Sacramento          94250.00000000000000United States                916TRUE                
+   508002966Edwin               Marley              El Paso             79999.00000000000000United States                915TRUE                
+   622111736Tandi               Fredi               Iowa City           52245.00000000000000United States                319TRUE                
+  1805923021Darbee              Perrington          Phoenix             85072.00000000000000United States                602TRUE                
+  1300084480Harlie              Kiernan             Trenton             8650.000000000000000United States                609TRUE                
+  2000825001Yule                Langstone           Austin              78732.00000000000000United States                512TRUE                
+    89987861Ring                Watting             Syracuse            13205.00000000000000United States                315TRUE                
+   631228748Tomaso              Edgworth            Richmond            23272.00000000000000United States                571TRUE                
+  1410082369Tate                Padley              Tampa               33661.00000000000000United States                813TRUE                
+  1031857524Florie              Philipard           Whittier            90605.00000000000000United States                626TRUE                
+  2121962751Octavia             Rouff               Sacramento          94263.00000000000000United States                916TRUE                
+  1706597223Kaine               Porcas              Lawrenceville       30245.00000000000000United States                229TRUE                
+   864010273Delmer              Clarey              San Francisco       94154.00000000000000United States                415TRUE                
+   887292720Lari                Hannant             Billings            59112.00000000000000United States                406TRUE                
+  1787938239Zorina              Conen               Khawr Fakkān       *                   United Arab Emirates         204TRUE                
+   259485918Hank                Fleeman             San Diego           92170.00000000000000United States                619TRUE                
+  1189953269Rebecka             Josephov            Miami               33169.00000000000000United States                786TRUE                
+  1531551181Patrice             Hanselmann          Naples              34108.00000000000000United States                239TRUE                
+   882645153Roderick            Doick               Cumming             30130.00000000000000United States                404TRUE                
+  1258732904Horace              Kiefer              Reno                89550.00000000000000United States                702TRUE                
+   343705117Madison             Stillmann           Joliet              60435.00000000000000United States                815TRUE                
+  2010783549Hansiain            Kynder              Pensacola           32505.00000000000000United States                850TRUE                
+   362892342Blakeley            Alldred             Boston              2208.000000000000000United States                617TRUE                
+  1611942098Hank                Tapner              Lansing             48912.00000000000000United States                517TRUE                
+  1270361600Bernette            Howat               Sacramento          94273.00000000000000United States                916TRUE                
+   609599291Merrill             Jankovic            High Point          27264.00000000000000United States                336TRUE                
+  1949714381Arabelle            Gernier             Saint Paul          55188.00000000000000United States                651TRUE                
+  1061907686Jess                Missington          Augusta             30905.00000000000000United States                706TRUE                
+    89570758Gray                Chilver             Dayton              45440.00000000000000United States                937TRUE                
+  1810812631Leontine            Caldeyroux          Akron               44315.00000000000000United States                330TRUE                
+  1699244863Dex                 Doig                New Hyde Park       11044.00000000000000United States                516TRUE                
+  2084874467Adham               Brunelli            Little Rock         72209.00000000000000United States                501TRUE                
+   381408035Emilie              Dirr                Minneapolis         55458.00000000000000United States                612TRUE                
+   899298710Mechelle            Mc Corley           Rochester           55905.00000000000000United States                507TRUE                
+  1722364807Janeczka            Abate               Stamford            6912.000000000000000United States                203TRUE                
