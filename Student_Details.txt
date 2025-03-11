@@ -1,8 +1,0 @@
-Student_ID	Student_Name
-1	Arjun
-2	Banu
-3	Chris
-4	Albert
-5	Swetha
-6	Thanu
-7	Venu
