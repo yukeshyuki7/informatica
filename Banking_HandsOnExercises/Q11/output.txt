@@ -1,0 +1,7 @@
+Australia	154747
+Canada	524759
+France	554113
+Mexico	516897
+Russia	541812
+United Kingdom	591521
+United States	511573
